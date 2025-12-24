@@ -61,15 +61,8 @@ This project is created for academic purposes and front-end practice using web t
 
 ---
 
-##  Live Demo
 
-🔗 GitHub Pages Link:  
-(ထည့်မယ်ဆိုရင် ဒီနေရာမှာ URL ထည့်ပါ)
-
----
-
-
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 - Improved understanding of front-end development
 - Experience with Bootstrap components
@@ -82,4 +75,5 @@ This project is created for academic purposes and front-end practice using web t
 
 - Name: Shwe YaTi
 - University: University of Computer Studies, Taunggyi
+
 - Project Type: Academic Project
