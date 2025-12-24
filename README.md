@@ -58,6 +58,7 @@ This project is created for academic purposes and front-end practice using web t
 2. Open the project folder
 3. Double-click index.html
 4. The website will open in your browser
+5. Make sure the images folder in images(because the images are spread)
 
 ---
 
@@ -77,3 +78,4 @@ This project is created for academic purposes and front-end practice using web t
 - University: University of Computer Studies, Taunggyi
 
 - Project Type: Academic Project
+
